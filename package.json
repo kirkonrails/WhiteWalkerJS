@@ -1,0 +1,25 @@
+{
+  "name": "whitewalker",
+  "version": "0.0.1",
+  "description": "WhiteWalker is a simple JSON tree traversal function that calls back when a match is found with a reference to the parent in order to perform operations such as delete, modify etc. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kirkonrails/WhiteWalkerJS.git"
+  },
+  "keywords": [
+    "JSON",
+    "Tree",
+    "Traversial",
+    "Recursive"
+  ],
+  "author": "Kirk Quesnelle <kirkvq@gmail.com> (http://www.kirkquesnelle.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirkonrails/WhiteWalkerJS/issues"
+  },
+  "homepage": "https://github.com/kirkonrails/WhiteWalkerJS#readme"
+}
